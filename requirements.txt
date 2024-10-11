@@ -1,0 +1,11 @@
+docx
+pdfplumber
+fastapi
+uvicorn
+boto3
+motor
+redis
+pinecone-client
+pydantic[dotenv]
+pymongo
+pytesseract

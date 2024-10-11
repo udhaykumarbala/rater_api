@@ -1,0 +1,1 @@
+pinecone = pinecone.config{"api_key":pinecone_secret_key}
